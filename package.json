@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ayan-saiyad/lil-mo-js/issues"
   },
-  "homepage": "https://github.com/ayan-saiyad/lil-mo-js#readme"
+  "homepage": "https://github.com/ayan-saiyad/lil-mo-js#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
 }
